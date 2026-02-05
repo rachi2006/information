@@ -1,4 +1,5 @@
-FULL PROCESS: Add Git & Connect Project to GitHub using VS Code
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FULL PROCESS: Add Git & Connect Project to GitHub using VS Code:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅ STEP 1: Install Git (only first time)
@@ -26,7 +27,7 @@ Select your project folder
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅ STEP 3: Initialize Git in project
 
-Open terminal in VS Code:
+Open terminal in VS Code: 
 
 Ctrl + `
 
@@ -136,7 +137,8 @@ git push
 Pro VS Code method (1-click way) 
 ----------------------------------
 In VS Code left side:
-Click Source Control icon : <img width="54" height="65" alt="image" src="https://github.com/user-attachments/assets/d5460ff3-80b0-4337-823d-1f143e66c587" />,
+Click Source Control icon :-
+<img width="54" height="65" alt="image" src="https://github.com/user-attachments/assets/d5460ff3-80b0-4337-823d-1f143e66c587" />,
 Click Publish to GitHub,
 Login,
 Done
