@@ -1,4 +1,5 @@
 FULL PROCESS: Add Git & Connect Project to GitHub using VS Code
+
 ✅ STEP 1: Install Git (only first time)
 Check Git installed or not
 
