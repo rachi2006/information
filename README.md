@@ -134,12 +134,8 @@ git push
 Pro VS Code method (1-click way) 
 ----------------------------------
 In VS Code left side:
-Click Source Control icon : <img width="54" height="65" alt="image" src="https://github.com/user-attachments/assets/d5460ff3-80b0-4337-823d-1f143e66c587" />
-
-
-Click Publish to GitHub
-
-Login
-
+Click Source Control icon : <img width="54" height="65" alt="image" src="https://github.com/user-attachments/assets/d5460ff3-80b0-4337-823d-1f143e66c587" />,
+Click Publish to GitHub,
+Login,
 Done
 
